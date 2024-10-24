@@ -1,4 +1,4 @@
-# Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
+<!-- # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
 > See live demo: [https://itsvj.me](https://itsvj.me)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
@@ -43,4 +43,4 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 
 Feel free to connect with me or leave feedback. I'm always learning and improving! 
 
-> ~ [hi@itsvj.me](mailto:hi@itsvj.me)
+> ~ [hi@itsvj.me](mailto:hi@itsvj.me) -->
